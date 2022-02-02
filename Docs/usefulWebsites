@@ -1,0 +1,24 @@
+# installation of opcua asyncio with python pip
+
+https://pypi.org/project/asyncua/
+pip install asyncua
+
+# python opcua server class and source code
+https://python-opcua.readthedocs.io/en/latest/server.html
+https://python-opcua.readthedocs.io/en/latest/_modules/opcua/server/server.html#Server
+
+# what is @property? A brief on decorator functions (@) syntax and property
+https://www.programiz.com/python-programming/decorator
+https://www.programiz.com/python-programming/property
+
+# opcua asyncio python repo
+https://github.com/FreeOpcUa/opcua-asyncio
+
+# what is asyncio?
+https://realpython.com/async-io-python/
+
+# what is the logging module
+https://docs.python.org/3/library/logging.html
+
+# what is async and await in python syntax?
+https://docs.python.org/3/library/asyncio-task.html
